@@ -4,7 +4,7 @@
 
 - 互联网是有记忆的，我想留下一些成长的脚印。
 
-[GitHub](https://github.com/bytesfly/blog)
+[GitHub](https://github.com/guotuLuo/Tiktok-emall)
 [TikTok_Emall_Document](README.md)
 
 
