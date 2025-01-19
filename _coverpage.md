@@ -1,8 +1,6 @@
 ![icon](https://cdn.jsdelivr.net/gh/wugenqiang/StaticRepo/images/icon.png)
 
-## 字节飞扬
-
-- 互联网是有记忆的，我想留下一些成长的脚印。
+## guotLuo
 
 [GitHub](https://github.com/guotuLuo/Tiktok-emall)
 [TikTok_Emall_Document](README.md)
