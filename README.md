@@ -21,17 +21,3 @@
 
 - [Python开发环境搭建](Python/python-environment.md)
 - [一文上手Python3](https://www.cnblogs.com/bytesfly/p/python.html)
-
-## AI
-
-**科学计算库:**
-- [快速上手NumPy](https://www.cnblogs.com/bytesfly/p/numpy.html)
-- [快速上手pandas(上)](https://www.cnblogs.com/bytesfly/p/pandas-1.html)
-- [快速上手pandas(下)](https://www.cnblogs.com/bytesfly/p/pandas-2.html)
-
-
-**机器学习:**
-- [从线性回归走进机器学习](AI/linear-regression.md)
-- [最大似然估计](AI/maximum-likelihood-estimation.md)
-
-- 
